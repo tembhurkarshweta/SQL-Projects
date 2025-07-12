@@ -1,4 +1,4 @@
-# 🍕📊 SQL Portfolio Projects
+# 📊 SQL Portfolio Projects
 
 Welcome to my SQL project portfolio! Below are two hands-on SQL analysis projects using real-world retail datasets. Each project focuses on data cleaning, business KPI extraction, and insightful analytics using SQL queries.
 
